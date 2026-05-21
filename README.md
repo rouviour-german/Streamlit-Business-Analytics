@@ -35,6 +35,10 @@ you will learn how to create an analytics website dashboard using Python and the
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
